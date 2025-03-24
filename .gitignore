@@ -203,3 +203,11 @@ website/frontend/build
 # Disasm / Decomp output
 *.decomp.json
 *.disas.json
+.direnv/
+.devenv/
+.envrc.private
+result
+.pre-commit-config.yaml
+
+# nixago: ignore-linked-files
+/.vscode/extensions.json

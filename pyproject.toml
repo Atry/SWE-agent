@@ -78,6 +78,7 @@ dev = [
     "pre-commit",
     "pytest-xdist",
     "griffe-pydantic!=1.1.3",
+    "ipykernel",
 ]
 
 [tool.setuptools]
