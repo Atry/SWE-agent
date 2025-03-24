@@ -1,3 +1,10 @@
+# Clacky workspace configuration
+.1024*
+!.1024
+.breakpoints
+
+# API keys and sensitive configuration files
+.env  # Contains sensitive API keys - do not commit!
 keys.yaml
 .swe-agent-human-history
 .vscode/**
